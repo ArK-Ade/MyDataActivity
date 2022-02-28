@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyDataActivity</string>
+    <string name="get_email">Get email</string>
+    <string name="affichage_mail_contact">Affichage mail contact</string>
+    <string name="get_image">get Image</string>
+    <string name="todo">TODO</string>
 </resources>
